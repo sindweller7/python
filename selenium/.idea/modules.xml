@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Code/python/BHP1/.idea/BHP1.iml" filepath="$PROJECT_DIR$/../../Code/python/BHP1/.idea/BHP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Code/python/BHP2/.idea/BHP2.iml" filepath="$PROJECT_DIR$/../../Code/python/BHP2/.idea/BHP2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Code/python/BlackHatPython/.idea/BlackHatPython.iml" filepath="$PROJECT_DIR$/../../Code/python/BlackHatPython/.idea/BlackHatPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ai/.idea/ai.iml" filepath="$PROJECT_DIR$/../ai/.idea/ai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../algorithm/.idea/algorithm.iml" filepath="$PROJECT_DIR$/../algorithm/.idea/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Code/python/books/.idea/books.iml" filepath="$PROJECT_DIR$/../../Code/python/books/.idea/books.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../designPatterns/.idea/designPatterns.iml" filepath="$PROJECT_DIR$/../designPatterns/.idea/designPatterns.iml" />
+      <module fileurl="file://$USER_HOME$/example/.idea/example.iml" filepath="$USER_HOME$/example/.idea/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Code/python/pentest/.idea/pentest.iml" filepath="$PROJECT_DIR$/../../Code/python/pentest/.idea/pentest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python/.idea/python.iml" filepath="$PROJECT_DIR$/../python/.idea/python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Code/python/selenium/.idea/selenium.iml" filepath="$PROJECT_DIR$/../../Code/python/selenium/.idea/selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Code/python/tools/.idea/tools.iml" filepath="$PROJECT_DIR$/../../Code/python/tools/.idea/tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../学习书籍/Python书籍/源代码/.idea/源代码.iml" filepath="$PROJECT_DIR$/../../学习书籍/Python书籍/源代码/.idea/源代码.iml" />
+    </modules>
+  </component>
+</project>
