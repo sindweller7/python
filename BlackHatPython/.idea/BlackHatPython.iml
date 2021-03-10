@@ -4,5 +4,10 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="books" />
+    <orderEntry type="module" module-name="pentest" />
+    <orderEntry type="module" module-name="selenium" />
+    <orderEntry type="module" module-name="tools" />
+    <orderEntry type="module" module-name="sqlmap-master" />
   </component>
 </module>
